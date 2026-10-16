@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "../Bespin/Databricks"
+		},
+		{
+			"path": "../Databrickscostco/intl-data-foundation (1)"
+		},
+		{
+			"path": "../Bespin/Costco-IDF"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../databricks-lakebase-app-day-1"
+		},
+		{
+			"path": "../databricks-lakebase-ticket-app"
+		},
+		{
+			"path": "../databricks-lakebase-app-day-2"
+		},
+		{
+			"path": "../databricks-lakebase-weather-app"
+		},
+		{
+			"path": "../movie-intelligence-platform"
+		},
+		{
+			"path": "../databricks-lakebase-app-day-3"
+		}
+	],
+	"settings": {}
+}
